@@ -1,0 +1,5 @@
+{
+  "name": "GeoGuard QR",
+  "description": "Secure Geo-Fencing QR Document Access System with location-based verification and expiry tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
